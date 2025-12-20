@@ -45,7 +45,7 @@ GPU is **optional**. All notebooks automatically fall back to CPU if CUDA is una
 
 ---
 
-## 🎯 Reproducibility (IMPORTANT)
+## 🎯 Reproducibility
 
 This repository is organized to **reproduce the final Kaggle result step-by-step**.
 All random seeds are explicitly fixed as required by the project guideline.
@@ -172,14 +172,14 @@ Final_Project_Report_2024320333.pdf
 * Total API calls ≤ **1,000**, complying with the project policy.
 * All LLM prompts and outputs were saved and are reproducible.
 * No Amazon review text was directly provided to the LLM.
-* The API Keys are **NOT** in the git (.env) - only the results are saves as *Amazon_products\class_llm_texts.txt*
+
 ---
 
 ## ⚠️ Notes
 
 * No external data beyond the provided dataset was used.
 * No pretrained model fine-tuned on Amazon product data was used.
-* Commits after the deadline are not intended for evaluation.
+* The API Keys are **NOT** in the git (.env) - only the results are saves as *Amazon_products\class_llm_texts.txt*
 
 ---
 
