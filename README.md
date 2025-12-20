@@ -14,7 +14,7 @@
 ├── Amazon_products/              # Provided dataset (train/test, taxonomy, keywords)
 ├── Dump/                         # Experimental / deprecated files (not used for final result)
 ├── References/                   # Reference experiments (e.g., TF-IDF baseline)
-├── outputs/                      # Final outputs and Kaggle submission files
+├── Outputs/                      # Final outputs and Kaggle submission files
 │
 ├── 00. LLM Embeddings.ipynb      # LLM-based class/text embedding generation
 ├── 01. Making_Embeddings.ipynb   # Sentence embedding construction
