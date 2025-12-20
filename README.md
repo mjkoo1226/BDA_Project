@@ -79,12 +79,12 @@ No additional data is used.
 
 ### Step 1. Embedding Construction
 
-1. **(Optional) LLM-based embedding**
+1. (Optional) LLM-based embedding
 
    ```
    00. LLM Embeddings.ipynb
    ```
-2. Sentence / document embedding generation
+2. **Sentence / document embedding generation**
 
    ```
    01. Making_Embeddings.ipynb
