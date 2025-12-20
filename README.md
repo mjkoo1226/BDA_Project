@@ -13,7 +13,7 @@
 .
 ├── Amazon_products/              # Provided dataset (train/test, taxonomy, keywords)
 ├── Dump/                         # Experimental / deprecated files (not used for final result)
-├── References/                   # Reference experiments (e.g., TF-IDF baseline)
+├── References/                   # Reference paper (2021.naacl-main.335)
 ├── Outputs/                      # Final outputs and Kaggle submission files
 │
 ├── 00. LLM Embeddings.ipynb      # LLM-based class/text embedding generation
